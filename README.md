@@ -1,4 +1,4 @@
-#First public beta of CoasterCreds – track every roller coaster you've ridden.
+# First public beta of CoasterCreds – track every roller coaster you've ridden.
 
 How to install (Android 8+):
 1. Download CoasterCreds-0.2.0-beta.apk below.
